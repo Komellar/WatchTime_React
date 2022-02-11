@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Slider/slider.css"],"names":[],"mappings":"AAAA,2CACE,aACF,CAEA,gDACE,gBACF","file":"main.659d3d24.chunk.css","sourcesContent":[".left-align-slick > .slick-list > .slick-track {\r\n  margin-left: 0rem;\r\n}\r\n\r\n.left-align-slick-less > .slick-list > .slick-track {\r\n  margin-left: 2rem;\r\n}\r\n"]}

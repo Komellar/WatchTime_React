@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/WatchTime_React/static/css/main.659d3d24.chunk.css",
+    "main.js": "/WatchTime_React/static/js/main.54cde26a.chunk.js",
+    "main.js.map": "/WatchTime_React/static/js/main.54cde26a.chunk.js.map",
+    "runtime-main.js": "/WatchTime_React/static/js/runtime-main.6cc94f30.js",
+    "runtime-main.js.map": "/WatchTime_React/static/js/runtime-main.6cc94f30.js.map",
+    "static/css/2.4624d354.chunk.css": "/WatchTime_React/static/css/2.4624d354.chunk.css",
+    "static/js/2.e764dc7c.chunk.js": "/WatchTime_React/static/js/2.e764dc7c.chunk.js",
+    "static/js/2.e764dc7c.chunk.js.map": "/WatchTime_React/static/js/2.e764dc7c.chunk.js.map",
+    "static/js/3.6474d74c.chunk.js": "/WatchTime_React/static/js/3.6474d74c.chunk.js",
+    "static/js/3.6474d74c.chunk.js.map": "/WatchTime_React/static/js/3.6474d74c.chunk.js.map",
+    "index.html": "/WatchTime_React/index.html",
+    "static/css/2.4624d354.chunk.css.map": "/WatchTime_React/static/css/2.4624d354.chunk.css.map",
+    "static/css/main.659d3d24.chunk.css.map": "/WatchTime_React/static/css/main.659d3d24.chunk.css.map",
+    "static/js/2.e764dc7c.chunk.js.LICENSE.txt": "/WatchTime_React/static/js/2.e764dc7c.chunk.js.LICENSE.txt",
+    "static/media/heroProfile.c61d131e.jpg": "/WatchTime_React/static/media/heroProfile.c61d131e.jpg",
+    "static/media/imgageNotFound.c4ba1e76.png": "/WatchTime_React/static/media/imgageNotFound.c4ba1e76.png",
+    "static/media/App.css": "/WatchTime_React/static/media/slick.c94f7671.ttf",
+    "static/media/tvMan.27ecbd6c.jpg": "/WatchTime_React/static/media/tvMan.27ecbd6c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cc94f30.js",
+    "static/css/2.4624d354.chunk.css",
+    "static/js/2.e764dc7c.chunk.js",
+    "static/css/main.659d3d24.chunk.css",
+    "static/js/main.54cde26a.chunk.js"
+  ]
+}
