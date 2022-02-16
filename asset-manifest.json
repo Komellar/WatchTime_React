@@ -1,29 +1,33 @@
 {
   "files": {
     "main.css": "/WatchTime_React/static/css/main.659d3d24.chunk.css",
-    "main.js": "/WatchTime_React/static/js/main.a54884fb.chunk.js",
-    "main.js.map": "/WatchTime_React/static/js/main.a54884fb.chunk.js.map",
-    "runtime-main.js": "/WatchTime_React/static/js/runtime-main.6cc94f30.js",
-    "runtime-main.js.map": "/WatchTime_React/static/js/runtime-main.6cc94f30.js.map",
+    "main.js": "/WatchTime_React/static/js/main.8f68c3c8.chunk.js",
+    "main.js.map": "/WatchTime_React/static/js/main.8f68c3c8.chunk.js.map",
+    "runtime-main.js": "/WatchTime_React/static/js/runtime-main.7552d2d2.js",
+    "runtime-main.js.map": "/WatchTime_React/static/js/runtime-main.7552d2d2.js.map",
     "static/css/2.4624d354.chunk.css": "/WatchTime_React/static/css/2.4624d354.chunk.css",
-    "static/js/2.e764dc7c.chunk.js": "/WatchTime_React/static/js/2.e764dc7c.chunk.js",
-    "static/js/2.e764dc7c.chunk.js.map": "/WatchTime_React/static/js/2.e764dc7c.chunk.js.map",
-    "static/js/3.6474d74c.chunk.js": "/WatchTime_React/static/js/3.6474d74c.chunk.js",
-    "static/js/3.6474d74c.chunk.js.map": "/WatchTime_React/static/js/3.6474d74c.chunk.js.map",
+    "static/js/2.2fd09145.chunk.js": "/WatchTime_React/static/js/2.2fd09145.chunk.js",
+    "static/js/2.2fd09145.chunk.js.map": "/WatchTime_React/static/js/2.2fd09145.chunk.js.map",
+    "static/js/3.eb0b7edc.chunk.js": "/WatchTime_React/static/js/3.eb0b7edc.chunk.js",
+    "static/js/3.eb0b7edc.chunk.js.map": "/WatchTime_React/static/js/3.eb0b7edc.chunk.js.map",
     "index.html": "/WatchTime_React/index.html",
     "static/css/2.4624d354.chunk.css.map": "/WatchTime_React/static/css/2.4624d354.chunk.css.map",
     "static/css/main.659d3d24.chunk.css.map": "/WatchTime_React/static/css/main.659d3d24.chunk.css.map",
-    "static/js/2.e764dc7c.chunk.js.LICENSE.txt": "/WatchTime_React/static/js/2.e764dc7c.chunk.js.LICENSE.txt",
+    "static/js/2.2fd09145.chunk.js.LICENSE.txt": "/WatchTime_React/static/js/2.2fd09145.chunk.js.LICENSE.txt",
     "static/media/heroProfile.c61d131e.jpg": "/WatchTime_React/static/media/heroProfile.c61d131e.jpg",
     "static/media/imgageNotFound.c4ba1e76.png": "/WatchTime_React/static/media/imgageNotFound.c4ba1e76.png",
     "static/media/App.css": "/WatchTime_React/static/media/slick.c94f7671.ttf",
+    "static/media/svg-1.c5c8bada.svg": "/WatchTime_React/static/media/svg-1.c5c8bada.svg",
+    "static/media/svg-2.9b76635b.svg": "/WatchTime_React/static/media/svg-2.9b76635b.svg",
+    "static/media/svg-3.89fee0cb.svg": "/WatchTime_React/static/media/svg-3.89fee0cb.svg",
+    "static/media/svg-4.d4202371.svg": "/WatchTime_React/static/media/svg-4.d4202371.svg",
     "static/media/tvMan.27ecbd6c.jpg": "/WatchTime_React/static/media/tvMan.27ecbd6c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cc94f30.js",
+    "static/js/runtime-main.7552d2d2.js",
     "static/css/2.4624d354.chunk.css",
-    "static/js/2.e764dc7c.chunk.js",
+    "static/js/2.2fd09145.chunk.js",
     "static/css/main.659d3d24.chunk.css",
-    "static/js/main.a54884fb.chunk.js"
+    "static/js/main.8f68c3c8.chunk.js"
   ]
 }
